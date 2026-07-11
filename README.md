@@ -4,7 +4,7 @@
 
 這個版本比較偏向展示完整原型流程：前端互動、後端 API、AI 任務處理與內容輸出流程。
 
-## 這個專案的重點
+## 這個作品的重點
 
 - 展示影片內容整理與摘要輸出的原型流程
 - 結合前端互動、API 與 AI 背景任務
@@ -18,7 +18,7 @@
 - 後端 API 與背景任務流程
 - AI 摘要與內容生成雛形
 
-## 專案結構
+## 作品結構
 
 ```text
 Video Note Full Prototype/
@@ -57,11 +57,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## 作品集整理建議
-
-為了讓作品集更清楚呈現，我建議把 Landing Page 與 Video Note 本體分成兩個 repo 上傳：
+## 作品集
 
 - Landing Page repo：使用 [video-note-ui-design](video-note-ui-design)
 - Full Prototype repo：使用 [video-scholar](video-scholar) 與 [videonote_backend](videonote_backend)
-
-這樣的安排比較適合展示產品概念與原型實作兩個不同層次的內容，也更容易讓 HR 或面試官快速理解我的作品定位。
