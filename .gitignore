@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+.env.*
+*.log
+temp_audio/

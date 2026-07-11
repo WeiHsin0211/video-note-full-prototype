@@ -1,0 +1,8 @@
+celery
+fastapi
+google-genai
+groq
+python-dotenv
+redis
+uvicorn
+yt-dlp
